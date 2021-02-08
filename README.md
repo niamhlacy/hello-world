@@ -1,4 +1,4 @@
 # hello-world
-cheeky repository
+test repository
 
 Oh hello there.
